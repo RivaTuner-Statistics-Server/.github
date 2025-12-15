@@ -1,7 +1,7 @@
 # RivaTuner Statistics Server – Advanced On-Screen Display & Monitoring
 
 <p align="center">
-  <img src="https://www.guru3d.com/data/publish/32/0d01e9bf8798358f83818eaf82f50d324af780/file-df0df5cff98449512d.jpg" alt="RivaTuner Statistics Server Logo"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTElgEUitSdk59qQ9wefFVVUR54IJws_BBblw&s" alt="RivaTuner Statistics Server Logo"/>
 </p>
 
 <p align="center">
